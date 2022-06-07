@@ -1,7 +1,7 @@
 #  Insert Libraries.
 library('nnet')
 library('class')
-library('e1071')	#first install class and then this one
+library('e1071')	
 library('penalizedLDA')
 library('MASS')
 library('heplots')
